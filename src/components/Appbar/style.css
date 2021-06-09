@@ -1,0 +1,12 @@
+@media (max-width: 600px) {
+  .nav_items-item .button {
+    padding: 0.5rem 1rem;
+
+    letter-spacing: 1px;
+
+    font-size: 1.2rem;
+  }
+  .item-name {
+    display: none;
+  }
+}
